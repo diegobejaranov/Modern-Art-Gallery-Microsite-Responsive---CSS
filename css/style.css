@@ -345,7 +345,7 @@ footer.location-footer img {
 .containerA {
   width: 100%;
   height: 550px;
-  background-image: url(../../img/map-mobile.png);
+  background-image: url(../img/map-mobile.png);
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
@@ -372,13 +372,13 @@ footer.location-footer img {
 }
 @media (min-width: 768px) {
   .containerA {
-    background-image: url(../../img/map-tablet.png);
+    background-image: url(../img/map-tablet.png);
     background-size: 100% 100%;
   }
 }
 @media (min-width: 1200px) {
   .containerA {
-    background-image: url(../../img/map-desktop.png);
+    background-image: url(../img/map-desktop.png);
     background-size: 100% 100%;
   }
 }
